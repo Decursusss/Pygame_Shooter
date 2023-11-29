@@ -2,8 +2,6 @@ import random
 import pygame
 import sys
 
-print("Hello")
-
 pygame.init()
 
 game_font = pygame.font.Font(None, 22)
